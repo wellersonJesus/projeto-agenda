@@ -1,13 +1,6 @@
 # Projeto-Agenda
 
-### Base Node
-
-```bash
-#base Node:
-https://github.com/luizomf/curso-js/tree/master/node/aula17
-```
-
-### Dependencias
+Dependencias
 
 ```bash
 #install npm
@@ -15,9 +8,15 @@ $ npm i
 
 #mongoose
 $ npm i mongoose
+
+#validator
+$ npm i validator
+
+#bcript
+$ npm i bcryptjs
 ```
 
-### LocalHost
+LocalHost
 
 ```bash
 #run project
